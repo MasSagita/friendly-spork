@@ -1,2 +1,2 @@
 # friendly-spork
-Elevator conveyor botle cap dengan jalur botol
+Elevator conveyor botle cap dengan jalur tutup botol
